@@ -24,6 +24,42 @@ The console should be able to perform the following tasks:
 
  All the classes are handled by the `Storage` engine in the `FileStorage class.
 
+ ### 0x03 Installation 
+
+ ```
+ git clone https: //github.com/praisex64/AirBnB_clone.git
+
+ ```
+
+ navigate to the AirBnb directory and run the following command:
+
+ ```
+  ./console.py
+
+ ```
+
+ ### Execution 
+
+ In interactive mode 
+
+ ```
+ $ ./console.py
+ (hbnb) help
+
+ Documented commands (type help <topic>):
+ ======================================= 
+ EOF  all  count  create  destroy  help  quit  show  update
+ ```
+
+ in Non-Interactive mode
+
+ ```
+ $ echo "help" | ./console.py
+ (hbnb)
+
+ Documented command (type help <topic>):
+ ```
+
 
 
  
