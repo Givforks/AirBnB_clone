@@ -11,7 +11,7 @@ Amenity = amenity.Amenity
 
 
 class Test_style(TestCase):
-    """[Class created to test style and syntax requirements for the
+    """[Test class to test style and syntax requirements for the
     amenity class]
     """
 
@@ -25,7 +25,7 @@ class Test_style(TestCase):
 
 
 class Test_amenity(TestCase):
-    """[Class for testing all the function of amenity class]
+    """[Test class testing all the function of amenity class]
     """
     @classmethod
     def setUpClass(cls):
